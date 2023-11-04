@@ -1,7 +1,7 @@
 # 14.ContentFirst
 Sprint 14. Lose Your Head, Deeltaak: Content First.
 
-Bekijk de [wiki]()
+Bekijk de [wiki](https://github.com/EmonaSantiago/14.ContentFirst/wiki)
 
 Of hier De Wiki navigatie
 * [📝Pagina structuur Analyse](https://github.com/EmonaSantiago/14.ContentFirst/wiki/Pagina-structuur-Analyse)
